@@ -18,16 +18,14 @@ export default () => (
         <section id="one">
           <div className="inner">
             <header className="major">
-              <h2>Sed amet aliquam</h2>
+              <h2>Run your school, virtually and digitally</h2>
             </header>
             <p>
-              Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-              magna sed nunc rhoncus condimentum sem. In efficitur ligula tate
-              urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor.
-              Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-              libero. Nullam et orci eu lorem consequat tincidunt vivamus et
-              sagittis magna sed nunc rhoncus condimentum sem. In efficitur
-              ligula tate urna.
+              A platform that houses your school, digitally. An organized
+              response to all your online education related problems. Easier for
+              the institution to monitor & control, as one web address leads the
+              school administration to all the activities taking place under its
+              banner.
             </p>
           </div>
         </section>

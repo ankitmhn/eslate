@@ -18,104 +18,18 @@ export default () => (
         <section id="one">
           <div className="inner">
             <header className="major">
-              <h2>Sed amet aliquam</h2>
+              <h2>
+                ASSURANCE OF GREATER ENGAGEMENT, COURTESY THE CHECKPOINT FEATURE
+              </h2>
             </header>
             <p>
-              Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-              magna sed nunc rhoncus condimentum sem. In efficitur ligula tate
-              urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor.
-              Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-              libero. Nullam et orci eu lorem consequat tincidunt vivamus et
-              sagittis magna sed nunc rhoncus condimentum sem. In efficitur
-              ligula tate urna.
+              Checkpoints, at the command of teachers, in form of questions
+              which pop up on the students’ screens to assess the latter’s level
+              of involvement. With absence of response to the ‘checkpoints’
+              assisting teachers in discerning those who sneaked out during the
+              period of the lecture, snoozing ceases to remain an option.
             </p>
           </div>
-        </section>
-        <section id="two" className="spotlights">
-          <section>
-            <Link href="/generic">
-              <a className="image">
-                <img src="/static/images/pic08.jpg" alt="" />
-              </a>
-            </Link>
-            <div className="content">
-              <div className="inner">
-                <header className="major">
-                  <h3>Orci maecenas</h3>
-                </header>
-                <p>
-                  Nullam et orci eu lorem consequat tincidunt vivamus et
-                  sagittis magna sed nunc rhoncus condimentum sem. In efficitur
-                  ligula tate urna. Maecenas massa sed magna lacinia magna
-                  pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-                  consequat tincidunt. Vivamus et sagittis tempus.
-                </p>
-                <ul className="actions">
-                  <li>
-                    <Link href="/generic">
-                      <a className="button">Learn more</a>
-                    </Link>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </section>
-          <section>
-            <Link href="/generic">
-              <a className="image">
-                <img src="/static/images/pic09.jpg" alt="" />
-              </a>
-            </Link>
-            <div className="content">
-              <div className="inner">
-                <header className="major">
-                  <h3>Rhoncus magna</h3>
-                </header>
-                <p>
-                  Nullam et orci eu lorem consequat tincidunt vivamus et
-                  sagittis magna sed nunc rhoncus condimentum sem. In efficitur
-                  ligula tate urna. Maecenas massa sed magna lacinia magna
-                  pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-                  consequat tincidunt. Vivamus et sagittis tempus.
-                </p>
-                <ul className="actions">
-                  <li>
-                    <Link href="/generic">
-                      <a className="button">Learn more</a>
-                    </Link>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </section>
-          <section>
-            <Link href="/generic">
-              <a className="image">
-                <img src="/static/images/pic10.jpg" alt="" />
-              </a>
-            </Link>
-            <div className="content">
-              <div className="inner">
-                <header className="major">
-                  <h3>Sed nunc ligula</h3>
-                </header>
-                <p>
-                  Nullam et orci eu lorem consequat tincidunt vivamus et
-                  sagittis magna sed nunc rhoncus condimentum sem. In efficitur
-                  ligula tate urna. Maecenas massa sed magna lacinia magna
-                  pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-                  consequat tincidunt. Vivamus et sagittis tempus.
-                </p>
-                <ul className="actions">
-                  <li>
-                    <Link href="/generic">
-                      <a className="button">Learn more</a>
-                    </Link>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </section>
         </section>
       </div>
     </div>

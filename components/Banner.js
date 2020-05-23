@@ -6,7 +6,7 @@ const Banner = (props) => (
       </header>
       <div className="content">
         <p>
-          A platform to to help your students learn,
+          A platform to help your students learn,
           <br />
           even while they stay safe at home.
         </p>

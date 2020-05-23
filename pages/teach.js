@@ -18,104 +18,20 @@ export default () => (
         <section id="one">
           <div className="inner">
             <header className="major">
-              <h2>How we augment learning delivery?</h2>
+              <h2>How do we augment learning delivery?</h2>
             </header>
             <p>
-              Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-              magna sed nunc rhoncus condimentum sem. In efficitur ligula tate
-              urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor.
-              Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-              libero. Nullam et orci eu lorem consequat tincidunt vivamus et
-              sagittis magna sed nunc rhoncus condimentum sem. In efficitur
-              ligula tate urna.
+              A special demo session to ensure that the teachers are armed with
+              the required technological understanding to smoothly conduct
+              classes digitally. Video tutorials to further aid in getting the
+              teachers acquainted with the features offered by us. Addressing
+              the issue posed by dearth of two way communication, one of the key
+              challenges of online teaching, through our additional ‘semi-live’
+              feature. Pre-recorded sessions controlled by teachers during the
+              course of a live class, to enable them to effectively engage with
+              the students.
             </p>
           </div>
-        </section>
-        <section id="two" className="spotlights">
-          <section>
-            <Link href="/generic">
-              <a className="image">
-                <img src="/static/images/pic08.jpg" alt="" />
-              </a>
-            </Link>
-            <div className="content">
-              <div className="inner">
-                <header className="major">
-                  <h3>Orci maecenas</h3>
-                </header>
-                <p>
-                  Nullam et orci eu lorem consequat tincidunt vivamus et
-                  sagittis magna sed nunc rhoncus condimentum sem. In efficitur
-                  ligula tate urna. Maecenas massa sed magna lacinia magna
-                  pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-                  consequat tincidunt. Vivamus et sagittis tempus.
-                </p>
-                <ul className="actions">
-                  <li>
-                    <Link href="/generic">
-                      <a className="button">Learn more</a>
-                    </Link>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </section>
-          <section>
-            <Link href="/generic">
-              <a className="image">
-                <img src="/static/images/pic09.jpg" alt="" />
-              </a>
-            </Link>
-            <div className="content">
-              <div className="inner">
-                <header className="major">
-                  <h3>Rhoncus magna</h3>
-                </header>
-                <p>
-                  Nullam et orci eu lorem consequat tincidunt vivamus et
-                  sagittis magna sed nunc rhoncus condimentum sem. In efficitur
-                  ligula tate urna. Maecenas massa sed magna lacinia magna
-                  pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-                  consequat tincidunt. Vivamus et sagittis tempus.
-                </p>
-                <ul className="actions">
-                  <li>
-                    <Link href="/generic">
-                      <a className="button">Learn more</a>
-                    </Link>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </section>
-          <section>
-            <Link href="/generic">
-              <a className="image">
-                <img src="/static/images/pic10.jpg" alt="" />
-              </a>
-            </Link>
-            <div className="content">
-              <div className="inner">
-                <header className="major">
-                  <h3>Sed nunc ligula</h3>
-                </header>
-                <p>
-                  Nullam et orci eu lorem consequat tincidunt vivamus et
-                  sagittis magna sed nunc rhoncus condimentum sem. In efficitur
-                  ligula tate urna. Maecenas massa sed magna lacinia magna
-                  pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-                  consequat tincidunt. Vivamus et sagittis tempus.
-                </p>
-                <ul className="actions">
-                  <li>
-                    <Link href="/generic">
-                      <a className="button">Learn more</a>
-                    </Link>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </section>
         </section>
       </div>
     </div>
