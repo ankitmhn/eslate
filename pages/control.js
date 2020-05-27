@@ -7,7 +7,7 @@ import BannerLanding from "../components/BannerControl";
 export default () => (
   <Layout>
     <Head>
-      <title>Control</title>
+      <title>CONTROL</title>
       <meta name="description" content="Landing Page" />
     </Head>
 
@@ -35,7 +35,7 @@ export default () => (
             <div className="content">
               <div className="inner">
                 <header className="major">
-                  <h3>Orci maecenas</h3>
+                  <h3></h3>
                 </header>
                 <p>
                  
@@ -43,7 +43,7 @@ export default () => (
                 <ul className="actions">
                   <li>
                     <Link href="/generic">
-                      <a className="button">Learn more</a>
+                      <a className="button"></a>
                     </Link>
                   </li>
                 </ul>
@@ -59,7 +59,7 @@ export default () => (
             <div className="content">
               <div className="inner">
                 <header className="major">
-                  <h3>Rhoncus magna</h3>
+                  <h3></h3>
                 </header>
                 <p>
                   
@@ -67,7 +67,7 @@ export default () => (
                 <ul className="actions">
                   <li>
                     <Link href="/generic">
-                      <a className="button">Learn more</a>
+                      <a className="button"></a>
                     </Link>
                   </li>
                 </ul>
@@ -83,15 +83,16 @@ export default () => (
             <div className="content">
               <div className="inner">
                 <header className="major">
-                  <h3>Sed nunc ligula</h3>
-                </header>
+                  <h3>IN-BUILT FEATURES TO ALLOW THE INSTITUTION COMPLETE CONTROL,
+TEACHERS DECIDE WHICH STUDENT GETS ACCESS TO WHAT LECTURE</h3>
+                </header> 
                 <p>
                   
                 </p>
                 <ul className="actions">
                   <li>
                     <Link href="/generic">
-                      <a className="button">Learn more</a>
+                      <a className="button"></a>
                     </Link>
                   </li>
                 </ul>

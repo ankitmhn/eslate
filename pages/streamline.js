@@ -7,7 +7,7 @@ import BannerLanding from "../components/BannerStreamline";
 export default () => (
   <Layout>
     <Head>
-      <title>Streamline</title>
+      <title>STREAMLINE</title>
       <meta name="description" content="Landing Page" />
     </Head>
 
@@ -39,14 +39,12 @@ export default () => (
             <div className="content">
               <div className="inner">
                 <header className="major">
-                  <h3>Orci maecenas</h3>
+                  <h3></h3>
                 </header>
-                <p>
-                </p>
                 <ul className="actions">
                   <li>
                     <Link href="/generic">
-                      <a className="button">Learn more</a>
+                      <a className="button"></a>
                     </Link>
                   </li>
                 </ul>
@@ -62,14 +60,12 @@ export default () => (
             <div className="content">
               <div className="inner">
                 <header className="major">
-                  <h3>Rhoncus magna</h3>
+                  <h3></h3>
                 </header>
-                <p>
-                </p>
                 <ul className="actions">
                   <li>
                     <Link href="/generic">
-                      <a className="button">Learn more</a>
+                      <a className="button"></a>
                     </Link>
                   </li>
                 </ul>
@@ -93,7 +89,7 @@ export default () => (
                 <ul className="actions">
                   <li>
                     <Link href="/generic">
-                      <a className="button">Learn more</a>
+                      <a className="button"></a>
                     </Link>
                   </li>
                 </ul>

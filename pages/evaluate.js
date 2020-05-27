@@ -7,7 +7,7 @@ import BannerLanding from "../components/BannerEvaluate";
 export default () => (
   <Layout>
     <Head>
-      <title>Evaluate</title>
+      <title>EVALUATE</title>
       <meta name="description" content="Landing Page" />
     </Head>
 
@@ -18,7 +18,7 @@ export default () => (
         <section id="one">
           <div className="inner">
             <header className="major">
-              <h2>ACCOUNTABILITY AT EVERY LEVEL</h2>
+              <h2></h2>
             </header>
             <p>
               Checkpoint scores as the means of incentivizing teachers to draw
