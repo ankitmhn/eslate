@@ -6,9 +6,9 @@ const BannerLanding = (props) => (
       </header>
       <div className="content">
         <p>
-          Lorem ipsum dolor sit amet nullam consequat
+        ASSURANCE OF GREATER ENGAGEMENT,
           <br />
-          sed veroeros. tempus adipiscing nulla.
+          COURTESY THE CHECKPOINT FEATURE
         </p>
       </div>
     </div>

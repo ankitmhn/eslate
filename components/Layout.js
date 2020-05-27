@@ -1,5 +1,5 @@
 import Head from "next/head";
-import stylesheet from "styles/main.scss";
+import stylesheet from "./styles/main.scss";
 
 import Header from "./Header";
 import Menu from "./Menu";

@@ -21,13 +21,7 @@ export default () => (
               <h2>Advanced features so you control the platform</h2>
             </header>
             <p>
-              Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-              magna sed nunc rhoncus condimentum sem. In efficitur ligula tate
-              urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor.
-              Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-              libero. Nullam et orci eu lorem consequat tincidunt vivamus et
-              sagittis magna sed nunc rhoncus condimentum sem. In efficitur
-              ligula tate urna.
+              
             </p>
           </div>
         </section>
@@ -44,11 +38,7 @@ export default () => (
                   <h3>Orci maecenas</h3>
                 </header>
                 <p>
-                  Nullam et orci eu lorem consequat tincidunt vivamus et
-                  sagittis magna sed nunc rhoncus condimentum sem. In efficitur
-                  ligula tate urna. Maecenas massa sed magna lacinia magna
-                  pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-                  consequat tincidunt. Vivamus et sagittis tempus.
+                 
                 </p>
                 <ul className="actions">
                   <li>
@@ -72,11 +62,7 @@ export default () => (
                   <h3>Rhoncus magna</h3>
                 </header>
                 <p>
-                  Nullam et orci eu lorem consequat tincidunt vivamus et
-                  sagittis magna sed nunc rhoncus condimentum sem. In efficitur
-                  ligula tate urna. Maecenas massa sed magna lacinia magna
-                  pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-                  consequat tincidunt. Vivamus et sagittis tempus.
+                  
                 </p>
                 <ul className="actions">
                   <li>
@@ -100,11 +86,7 @@ export default () => (
                   <h3>Sed nunc ligula</h3>
                 </header>
                 <p>
-                  Nullam et orci eu lorem consequat tincidunt vivamus et
-                  sagittis magna sed nunc rhoncus condimentum sem. In efficitur
-                  ligula tate urna. Maecenas massa sed magna lacinia magna
-                  pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-                  consequat tincidunt. Vivamus et sagittis tempus.
+                  
                 </p>
                 <ul className="actions">
                   <li>

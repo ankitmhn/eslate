@@ -6,9 +6,9 @@ const BannerLanding = (props) => (
       </header>
       <div className="content">
         <p>
-          All your learning management processes at one place.
+        RUN YOUR SCHOOL VIRTUALLY
           <br />
-          sed veroeros. tempus adipiscing nulla.
+          
         </p>
       </div>
     </div>
