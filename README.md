@@ -1,31 +1,13 @@
-# nextjs-starter-forty
-A Next.js starter based on the Forty site template, designed by HTML5 UP. Check out https://codebushi.com/nextjs-website-starters/ for more Next.js starters and templates.
+Eslate website built on NextJS.
 
-## Preview
+## Setup
 
-http://nextjs-forty.surge.sh/
+`npm install`
 
-## Getting Started
+## Run
 
-To get started, simply clone the repository and run `npm install`
+`npm run dev`
 
-```
-# Clone the repo
-git clone https://github.com/codebushi/nextjs-starter-forty.git
+## Build and export
 
-# Move into the new directory
-cd nextjs-starter-forty/
-
-# Install npm packages
-npm install
-
-# Start up the next.js dev server, browse to http://localhost:3000/
-npm run dev
-```
-
-## Generating the Static Site
-
-```
-# Build and export the site, the static files are generated in the out/ folder
-npm run export
-```
+`npm run build && npm run export` produces the production assets in the `out` directory. Upload the `out` directory to the server to deploy to production.
