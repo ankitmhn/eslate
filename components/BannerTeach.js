@@ -6,9 +6,9 @@ const BannerLanding = (props) => (
       </header>
       <div className="content">
         <p>
-          Empower your teachers to delivery their best,
-          <br />
-          ensure learning outcomes for your students.
+        EMPOWER YOUR TEACHERS TO DELIVER THEIR BEST,
+          <br /> 
+          ENSURE LEARNING OUTCOMES FOR YOUR STUDENTS
         </p>
       </div>
     </div>

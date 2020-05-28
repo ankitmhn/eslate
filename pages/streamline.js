@@ -7,7 +7,7 @@ import BannerLanding from "../components/BannerStreamline";
 export default () => (
   <Layout>
     <Head>
-      <title>Streamline</title>
+      <title>STREAMLINE</title>
       <meta name="description" content="Landing Page" />
     </Head>
 
@@ -18,7 +18,7 @@ export default () => (
         <section id="one">
           <div className="inner">
             <header className="major">
-              <h2>Run your school, virtually and digitally</h2>
+              <h2></h2>
             </header>
             <p>
               A platform that houses your school, digitally. An organized
@@ -39,19 +39,12 @@ export default () => (
             <div className="content">
               <div className="inner">
                 <header className="major">
-                  <h3>Orci maecenas</h3>
+                  <h3></h3>
                 </header>
-                <p>
-                  Nullam et orci eu lorem consequat tincidunt vivamus et
-                  sagittis magna sed nunc rhoncus condimentum sem. In efficitur
-                  ligula tate urna. Maecenas massa sed magna lacinia magna
-                  pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-                  consequat tincidunt. Vivamus et sagittis tempus.
-                </p>
                 <ul className="actions">
                   <li>
                     <Link href="/generic">
-                      <a className="button">Learn more</a>
+                      <a className="button"></a>
                     </Link>
                   </li>
                 </ul>
@@ -67,19 +60,12 @@ export default () => (
             <div className="content">
               <div className="inner">
                 <header className="major">
-                  <h3>Rhoncus magna</h3>
+                  <h3></h3>
                 </header>
-                <p>
-                  Nullam et orci eu lorem consequat tincidunt vivamus et
-                  sagittis magna sed nunc rhoncus condimentum sem. In efficitur
-                  ligula tate urna. Maecenas massa sed magna lacinia magna
-                  pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-                  consequat tincidunt. Vivamus et sagittis tempus.
-                </p>
                 <ul className="actions">
                   <li>
                     <Link href="/generic">
-                      <a className="button">Learn more</a>
+                      <a className="button"></a>
                     </Link>
                   </li>
                 </ul>
@@ -95,19 +81,15 @@ export default () => (
             <div className="content">
               <div className="inner">
                 <header className="major">
-                  <h3>Sed nunc ligula</h3>
+                  <h3></h3>
                 </header>
                 <p>
-                  Nullam et orci eu lorem consequat tincidunt vivamus et
-                  sagittis magna sed nunc rhoncus condimentum sem. In efficitur
-                  ligula tate urna. Maecenas massa sed magna lacinia magna
-                  pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-                  consequat tincidunt. Vivamus et sagittis tempus.
+                  
                 </p>
                 <ul className="actions">
                   <li>
                     <Link href="/generic">
-                      <a className="button">Learn more</a>
+                      <a className="button"></a>
                     </Link>
                   </li>
                 </ul>

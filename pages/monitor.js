@@ -24,7 +24,7 @@ export default () => (
               Doing away with the tedious practice of teachers manually taking
               the attendance, as our in built system provides the school with
               attendance calculated on the basis of highly reliable student
-              login data The ‘Checkpoint’ response data too at the disposal of
+              login data. The ‘Checkpoint’ response data too at the disposal of
               the institution, thereby keeping them informed of the level of
               engagement in each of the lectures. Helping the teachers
               channelize their time & energy towards their core responsibility,

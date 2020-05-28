@@ -6,9 +6,9 @@ const BannerLanding = (props) => (
       </header>
       <div className="content">
         <p>
-          In-built features to allow your complete control,
+        IN-BUILT FEATURES TO ALLOW THE INSTITUTION COMPLETE CONTROL,
           <br />
-          teachers decide which students gets to see what lectures.
+          TEACHERS DECIDE WHICH STUDENT GETS ACCESS TO WHAT LECTURE
         </p>
       </div>
     </div>

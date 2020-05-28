@@ -7,7 +7,7 @@ import BannerLanding from "../components/BannerTeach";
 export default () => (
   <Layout>
     <Head>
-      <title>Teach</title>
+      <title>TEACH</title>
       <meta name="description" content="Landing Page" />
     </Head>
 
