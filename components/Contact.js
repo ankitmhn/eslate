@@ -30,7 +30,7 @@ const Contact = (props) => (
           <div className="contact-method">
             <span className="icon alt fa-envelope"></span>
             <h3>Email</h3>
-            <a href="#">megha@eslate.com</a>
+            <a href="#">megha@teachonline.link</a>
           </div>
         </section>
         <section>
@@ -45,9 +45,11 @@ const Contact = (props) => (
             <span className="icon alt fa-home"></span>
             <h3>Address</h3>
             <span>
-              1234 Somewhere Road #5432
+              #102, Workafella
               <br />
-              New Delhi, 110 001
+              1 Infantry Road,
+              <br />
+              Bangalore 560 001
               <br />
               India
             </span>

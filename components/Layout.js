@@ -29,6 +29,7 @@ class Layout extends React.Component {
   }
 
   handleToggleMenu() {
+    console.log("Resetting");
     this.setState({
       isMenuVisible: !this.state.isMenuVisible,
     });

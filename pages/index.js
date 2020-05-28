@@ -11,7 +11,9 @@ export default () => (
       <div id="main">
         <section id="one" className="tiles">
           <article
-            style={{ backgroundImage: `url('/static/images/pic01.jpg')` }}
+            style={{
+              backgroundImage: `url('/static/images/books-book-pages-read-literature-159866.jpeg')`,
+            }}
           >
             <header className="major">
               <h3>Teach</h3>
@@ -24,7 +26,9 @@ export default () => (
             </Link>
           </article>
           <article
-            style={{ backgroundImage: `url('/static/images/pic02.jpg')` }}
+            style={{
+              backgroundImage: `url('/static/images/notes-macbook-study-conference.jpg')`,
+            }}
           >
             <header className="major">
               <h3>Control</h3>
@@ -38,7 +42,9 @@ export default () => (
             </Link>
           </article>
           <article
-            style={{ backgroundImage: `url('/static/images/pic03.jpg')` }}
+            style={{
+              backgroundImage: `url('/static/images/online-tutorials-concept_52683-37480.jpg')`,
+            }}
           >
             <header className="major">
               <h3>Assess</h3>
@@ -52,7 +58,9 @@ export default () => (
             </Link>
           </article>
           <article
-            style={{ backgroundImage: `url('/static/images/pic04.jpg')` }}
+            style={{
+              backgroundImage: `url('/static/images/people-woman-girl-writing.jpg')`,
+            }}
           >
             <header className="major">
               <h3>Monitor</h3>
@@ -66,7 +74,9 @@ export default () => (
             </Link>
           </article>
           <article
-            style={{ backgroundImage: `url('/static/images/pic05.jpg')` }}
+            style={{
+              backgroundImage: `url('/static/images/pexels-photo-289737.jpeg')`,
+            }}
           >
             <header className="major">
               <h3>Evaluate</h3>
@@ -80,7 +90,9 @@ export default () => (
             </Link>
           </article>
           <article
-            style={{ backgroundImage: `url('/static/images/pic06.jpg')` }}
+            style={{
+              backgroundImage: `url('/static/images/pexels-photo-301926.jpeg')`,
+            }}
           >
             <header className="major">
               <h3>Streamline</h3>
