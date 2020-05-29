@@ -18,10 +18,9 @@ export default () => (
         <section id="one">
           <div className="inner">
             <header className="major">
-              <h2></h2>
             </header>
             <p>
-              Checkpoint scores as the means of incentivizing teachers to draw
+            Checkpoint scores as the means of incentivizing teachers to draw
               more engagement from the students.
             </p>
           </div>

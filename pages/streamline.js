@@ -18,7 +18,6 @@ export default () => (
         <section id="one">
           <div className="inner">
             <header className="major">
-              <h2></h2>
             </header>
             <p>
               A platform that houses your school, digitally. An organized
@@ -28,74 +27,6 @@ export default () => (
               banner.
             </p>
           </div>
-        </section>
-        <section id="two" className="spotlights">
-          <section>
-            <Link href="/generic">
-              <a className="image">
-                <img src="/static/images/pic08.jpg" alt="" />
-              </a>
-            </Link>
-            <div className="content">
-              <div className="inner">
-                <header className="major">
-                  <h3></h3>
-                </header>
-                <ul className="actions">
-                  <li>
-                    <Link href="/generic">
-                      <a className="button"></a>
-                    </Link>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </section>
-          <section>
-            <Link href="/generic">
-              <a className="image">
-                <img src="/static/images/pic09.jpg" alt="" />
-              </a>
-            </Link>
-            <div className="content">
-              <div className="inner">
-                <header className="major">
-                  <h3></h3>
-                </header>
-                <ul className="actions">
-                  <li>
-                    <Link href="/generic">
-                      <a className="button"></a>
-                    </Link>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </section>
-          <section>
-            <Link href="/generic">
-              <a className="image">
-                <img src="/static/images/pic10.jpg" alt="" />
-              </a>
-            </Link>
-            <div className="content">
-              <div className="inner">
-                <header className="major">
-                  <h3></h3>
-                </header>
-                <p>
-                  
-                </p>
-                <ul className="actions">
-                  <li>
-                    <Link href="/generic">
-                      <a className="button"></a>
-                    </Link>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </section>
         </section>
       </div>
     </div>
